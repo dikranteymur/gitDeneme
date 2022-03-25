@@ -1,3 +1,4 @@
 Profile Screen
 
 - Profile screen olusturuldu
+- 2. degisiklik yapildi
