@@ -2,3 +2,5 @@ ilk dosya eklendi -> main
 
 - Home screen olusturulduktan sonra burada bir degisiklik yapildi
 - Developer'da degisiklik yapildi
+- Home screen Developer'a merge yapildi
+- Developer'da 3. degisiklik yapildi
