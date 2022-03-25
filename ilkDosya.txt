@@ -1,1 +1,3 @@
 ilk dosya eklendi -> main
+
+- Home screen olusturulduktan sonra burada bir degisiklik yapildi
