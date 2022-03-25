@@ -1,0 +1,4 @@
+Home Screen
+
+- Home screen calismalari 1 yapildi
+- Home screen 2. degisiklik yapildi
